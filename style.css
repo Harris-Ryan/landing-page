@@ -142,3 +142,49 @@ h2 {
 
 /* Action */
 
+.signup-box {
+    display: flex;
+    align-items: center;
+    background-color: #1d63d3;
+    color: #F9FAF8;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    border-radius: 8px;
+    height: 80px;
+}
+
+.signbox {
+    flex: 1;
+}
+
+.text {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.text p {
+    margin: auto;
+}
+
+button {
+    background-color: #2462c7;
+    color: #F9FAF8;
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 110px;
+    padding: 4px;
+    margin-left: 200px;
+}
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #18202b;
+    color: #F9FAF8;
+    font-size: 12px;
+    padding-top: 0px;
+}
