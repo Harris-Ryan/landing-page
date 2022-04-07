@@ -114,8 +114,31 @@ h2 {
     width: 200px;
     height: 200px;
     border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(158, 154, 154);
 }
 
 .content p {
     font-weight: 550;
 }
+
+/* Quote */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.quote b {
+    padding: 0px 0px 30px 650px;
+    margin-top: 0;
+    font-weight: 200;
+}
+
+/* Action */
+
