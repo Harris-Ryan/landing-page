@@ -56,7 +56,6 @@ body {
     flex-basis: 500px;
     margin-right: 100px;
     padding-right: 100px;
-    
 }
 
 h1 {
@@ -89,6 +88,7 @@ h1 {
 .hero img {
     height: 280px;
     width: 430px;
+    border-radius: 15px;
 }
 
 /* Hero */
@@ -101,4 +101,21 @@ h2 {
     font-size: 36px;
     font-weight: extra-bold;
     color: #1f2937;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+.content img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.content p {
+    font-weight: 550;
 }
