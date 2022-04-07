@@ -21,9 +21,9 @@ body {
 }
 
 .logo img {
-    width: 90px;
+    width: 100px;
     height: 70px;
-    padding: 6px 0px 2px 6px;
+    margin-left: 10px;
 }
 
 .links {
@@ -140,7 +140,7 @@ h2 {
     font-weight: 200;
 }
 
-/* Action */
+/* Action/Signup Box */
 
 .signup-box {
     display: flex;
@@ -151,6 +151,7 @@ h2 {
     padding: 10px 80px;
     border-radius: 8px;
     height: 80px;
+    flex: 1;
 }
 
 .signbox {
@@ -167,7 +168,7 @@ h2 {
     margin: auto;
 }
 
-button {
+.butto {
     background-color: #2462c7;
     color: #F9FAF8;
     border-radius: 5px;
@@ -175,7 +176,7 @@ button {
     width: 110px;
     padding: 4px;
     margin-left: 200px;
-}
+} 
 
 /* Footer */
 
