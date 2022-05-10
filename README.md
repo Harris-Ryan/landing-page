@@ -1,3 +1,3 @@
 # landing-page
 
-This is supposed to be a clone of the attached 'Desired Outcome" photos as a test to use my css skills. 
+This is a test of using my vanilla HTML and CSS abilities to build a modern and appelaing landing page on a topic I am passionate about.
